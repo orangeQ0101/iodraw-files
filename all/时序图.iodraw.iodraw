@@ -40,7 +40,7 @@
         <mxCell id="p3Uw51wo1otmImGNbk2T-13" value="[用户信息不存在]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=16;" vertex="1" parent="p3Uw51wo1otmImGNbk2T-11">
           <mxGeometry y="244" width="606" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="p3Uw51wo1otmImGNbk2T-14" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+        <mxCell id="p3Uw51wo1otmImGNbk2T-14" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="705" y="1393" width="1467" height="209" as="geometry" />
         </mxCell>
         <mxCell id="p3Uw51wo1otmImGNbk2T-15" value="[管理员按需中断通信]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="p3Uw51wo1otmImGNbk2T-14">
@@ -188,7 +188,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3Uw51wo1otmImGNbk2T-36" value="查看实时通信状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="p3Uw51wo1otmImGNbk2T-10" target="p3Uw51wo1otmImGNbk2T-3">
+        <mxCell id="p3Uw51wo1otmImGNbk2T-36" value="查看实时通信状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="p3Uw51wo1otmImGNbk2T-10" target="p3Uw51wo1otmImGNbk2T-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1450" y="1373" />

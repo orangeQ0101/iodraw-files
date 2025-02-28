@@ -43,7 +43,7 @@
         <mxCell id="p3Uw51wo1otmImGNbk2T-14" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="705" y="1393" width="1467" height="209" as="geometry" />
         </mxCell>
-        <mxCell id="p3Uw51wo1otmImGNbk2T-15" value="[管理员按需中断通信]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="p3Uw51wo1otmImGNbk2T-14">
+        <mxCell id="p3Uw51wo1otmImGNbk2T-15" value="[管理员按需中断通信]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="p3Uw51wo1otmImGNbk2T-14">
           <mxGeometry x="30" width="1437" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p3Uw51wo1otmImGNbk2T-16" value="进入系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="p3Uw51wo1otmImGNbk2T-1" target="p3Uw51wo1otmImGNbk2T-2">

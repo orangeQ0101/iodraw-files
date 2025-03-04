@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-4" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;通信转发模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="341" y="530" width="113" height="30" as="geometry" />
+          <mxGeometry x="335" y="549" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-8" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户身份认证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="526" y="211" width="117" height="30" as="geometry" />
@@ -68,16 +68,16 @@
           <mxGeometry x="532" y="443" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-13" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;即时设备发现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="529" y="487" width="111" height="30" as="geometry" />
+          <mxGeometry x="523" y="506" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-14" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转发通道连接&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="517" width="111" height="30" as="geometry" />
+          <mxGeometry x="529" y="536" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-15" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;连接状态管理&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="522" y="638" width="111" height="30" as="geometry" />
+          <mxGeometry x="516" y="657" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-16" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;数据压缩与解压&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="522" y="578" width="135" height="30" as="geometry" />
+          <mxGeometry x="516" y="597" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

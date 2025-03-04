@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-1" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;域间AoIP通信中继系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="14" y="413" width="197" height="30" as="geometry" />
+          <mxGeometry x="140" y="419" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-2" target="wAFiUMh0igou0lxurNAk-8">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-2" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户权限管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="269" width="120" height="30" as="geometry" />
+          <mxGeometry x="461" y="275" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-3" target="wAFiUMh0igou0lxurNAk-11">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-3" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;设备管控模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="341" y="413" width="113" height="30" as="geometry" />
+          <mxGeometry x="467" y="419" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-4" target="wAFiUMh0igou0lxurNAk-13">
           <mxGeometry relative="1" as="geometry" />
@@ -50,34 +50,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-4" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;通信转发模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="549" width="113" height="30" as="geometry" />
+          <mxGeometry x="461" y="555" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-8" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户身份认证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="526" y="211" width="117" height="30" as="geometry" />
+          <mxGeometry x="652" y="217" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-9" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;系统资源授权&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="526" y="269" width="117" height="30" as="geometry" />
+          <mxGeometry x="652" y="275" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-10" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户信息缓存&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="529" y="321" width="111" height="30" as="geometry" />
+          <mxGeometry x="655" y="327" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-11" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;节点信息管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="379" width="111" height="30" as="geometry" />
+          <mxGeometry x="658" y="385" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-12" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;设备信息管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="443" width="111" height="30" as="geometry" />
+          <mxGeometry x="658" y="449" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-13" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;即时设备发现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="490" width="111" height="30" as="geometry" />
+          <mxGeometry x="658" y="496" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-14" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转发通道连接&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="528" width="111" height="30" as="geometry" />
+          <mxGeometry x="658" y="534" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-15" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;连接状态管理&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="526" y="613" width="111" height="30" as="geometry" />
+          <mxGeometry x="655" y="619" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-16" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;数据压缩与解压&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="529" y="573" width="135" height="30" as="geometry" />
+          <mxGeometry x="655" y="579" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

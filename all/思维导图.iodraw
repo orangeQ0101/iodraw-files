@@ -16,6 +16,9 @@
         <mxCell id="wAFiUMh0igou0lxurNAk-1" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;域间AoIP通信中继系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="49" y="409" width="197" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wAFiUMh0igou0lxurNAk-17" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-2" target="wAFiUMh0igou0lxurNAk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-2" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户权限管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376" y="289" width="120" height="30" as="geometry" />
         </mxCell>
@@ -41,7 +44,7 @@
           <mxGeometry x="557" y="474" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-13" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;即时设备发现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="557" y="550" width="111" height="30" as="geometry" />
+          <mxGeometry x="559" y="530" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-14" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转发通道连接&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559" y="595" width="111" height="30" as="geometry" />

@@ -34,8 +34,11 @@
         <mxCell id="wAFiUMh0igou0lxurNAk-10" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户信息缓存&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="569" y="329" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wAFiUMh0igou0lxurNAk-11" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户信息缓存&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="579" y="339" width="111" height="30" as="geometry" />
+        <mxCell id="wAFiUMh0igou0lxurNAk-11" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;节点信息管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="566" y="417" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAFiUMh0igou0lxurNAk-12" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;节点信息管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="557" y="474" width="111" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

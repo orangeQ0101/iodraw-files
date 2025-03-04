@@ -28,6 +28,12 @@
         <mxCell id="wAFiUMh0igou0lxurNAk-2" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户权限管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376" y="289" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wAFiUMh0igou0lxurNAk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-3" target="wAFiUMh0igou0lxurNAk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAFiUMh0igou0lxurNAk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-3" target="wAFiUMh0igou0lxurNAk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-3" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;设备管控模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376" y="409" width="113" height="30" as="geometry" />
         </mxCell>

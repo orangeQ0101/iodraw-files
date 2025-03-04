@@ -43,8 +43,11 @@
         <mxCell id="wAFiUMh0igou0lxurNAk-13" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;即时设备发现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557" y="550" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wAFiUMh0igou0lxurNAk-14" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;即时设备发现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wAFiUMh0igou0lxurNAk-14" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转发通道连接&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559" y="595" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAFiUMh0igou0lxurNAk-15" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转发通道连接&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="569" y="605" width="111" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

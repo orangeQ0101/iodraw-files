@@ -10,7 +10,7 @@
         <mxCell id="wAFiUMh0igou0lxurNAk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-1" target="wAFiUMh0igou0lxurNAk-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wAFiUMh0igou0lxurNAk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-1" target="wAFiUMh0igou0lxurNAk-4">
+        <mxCell id="wAFiUMh0igou0lxurNAk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="wAFiUMh0igou0lxurNAk-1" target="wAFiUMh0igou0lxurNAk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-1" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;域间AoIP通信中继系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

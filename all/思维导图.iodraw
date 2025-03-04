@@ -49,8 +49,8 @@
         <mxCell id="wAFiUMh0igou0lxurNAk-15" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;连接状态管理&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557" y="634" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wAFiUMh0igou0lxurNAk-16" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;连接状态管理&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="613" y="565" width="111" height="30" as="geometry" />
+        <mxCell id="wAFiUMh0igou0lxurNAk-16" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;数据压缩与解压&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="646" y="618" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

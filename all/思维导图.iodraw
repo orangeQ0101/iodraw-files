@@ -25,7 +25,7 @@
         <mxCell id="wAFiUMh0igou0lxurNAk-4" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;通信转发模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376" y="526" width="113" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wAFiUMh0igou0lxurNAk-8" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;信息认证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wAFiUMh0igou0lxurNAk-8" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户身份认证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="563" y="224" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-9" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户鉴权&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

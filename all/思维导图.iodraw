@@ -53,7 +53,7 @@
           <mxGeometry x="341" y="530" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-8" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;用户身份认证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="531" y="204" width="117" height="30" as="geometry" />
+          <mxGeometry x="534" y="205" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAFiUMh0igou0lxurNAk-9" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;系统资源授权&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="534" y="255" width="117" height="30" as="geometry" />

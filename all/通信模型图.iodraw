@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-46">
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-48" value="可连接设备列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-46">
           <mxGeometry x="0.33" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

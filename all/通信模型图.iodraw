@@ -86,7 +86,7 @@
           <mxGeometry x="810" y="380" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-27" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="728.44" y="334.69" width="22.5" height="140.62" as="geometry" />
+          <mxGeometry x="728.44" y="470" width="22.5" height="140.62" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-41" value="Redis数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="310" width="90" height="40" as="geometry" />

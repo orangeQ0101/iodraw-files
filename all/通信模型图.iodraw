@@ -131,6 +131,9 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-41" target="mMqHlly8Aj62i1W2DUxk-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-41" target="mMqHlly8Aj62i1W2DUxk-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-41" value="Redis数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="310" width="90" height="40" as="geometry" />
         </mxCell>

@@ -128,9 +128,6 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-27" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="723.91" y="343" width="31.56" height="140.62" as="geometry" />
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.85;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-41" target="mMqHlly8Aj62i1W2DUxk-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-41" value="Redis数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="310" width="90" height="40" as="geometry" />
         </mxCell>
@@ -141,9 +138,6 @@
           <mxGeometry x="-0.1562" y="-1" relative="1" as="geometry">
             <mxPoint x="7" y="-2" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.15;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-16" target="mMqHlly8Aj62i1W2DUxk-41">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

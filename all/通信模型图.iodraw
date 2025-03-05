@@ -65,8 +65,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-16" target="mMqHlly8Aj62i1W2DUxk-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="270.0625" as="sourcePoint" />
+            <mxPoint x="435" y="271" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-62" value="设备列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-61">
           <mxGeometry x="0.0705" relative="1" as="geometry">

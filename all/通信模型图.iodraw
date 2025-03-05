@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.991;exitY=0.344;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="809" y="230" as="targetPoint" />
+            <mxPoint x="668.9200000000001" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-29" value="getDeviceInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-28">

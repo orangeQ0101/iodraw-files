@@ -19,6 +19,9 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-11" value="即时设备查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="190" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-12" value="域间连接请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -136,7 +136,7 @@
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-50" value="Http请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-49">
           <mxGeometry x="-0.1562" y="-1" relative="1" as="geometry">
-            <mxPoint x="-4" as="offset" />
+            <mxPoint x="7" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

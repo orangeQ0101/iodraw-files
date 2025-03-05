@@ -62,8 +62,11 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-22" value="音频设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1055" y="234" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-23" target="mMqHlly8Aj62i1W2DUxk-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="809.69" y="264.0025" as="sourcePoint" />
+            <mxPoint x="669.69" y="264.0025" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-36" value="deviceList" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-35">
           <mxGeometry x="0.07" relative="1" as="geometry">
@@ -74,7 +77,7 @@
           <mxGeometry x="810" y="216.25" width="120" height="63.75" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-26" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="719.22" y="178.69" width="40.94" height="140.62" as="geometry" />
+          <mxGeometry x="728.44" y="40" width="40.94" height="140.62" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-24" value="音频数据通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="120" height="50" as="geometry" />

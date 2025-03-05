@@ -54,11 +54,11 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-23" value="设备信息通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="805" y="240" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-24" value="设备信息通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-24" value="音频数据通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-25" value="设备信息通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="350" width="120" height="50" as="geometry" />
+          <mxGeometry x="805" y="340" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -18,7 +18,7 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="295" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-4" target="mMqHlly8Aj62i1W2DUxk-11">
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.215;exitY=0.014;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-4" target="mMqHlly8Aj62i1W2DUxk-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-4" value="Web浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -108,7 +108,7 @@
           <mxGeometry x="810" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-27" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="723.91" y="465.47" width="31.56" height="140.62" as="geometry" />
+          <mxGeometry x="723.91" y="343" width="31.56" height="140.62" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-41" value="Redis数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="310" width="90" height="40" as="geometry" />

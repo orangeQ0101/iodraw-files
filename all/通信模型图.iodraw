@@ -247,8 +247,8 @@
             <mxPoint x="3" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="265" width="60" height="30" as="geometry" />
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-80" value="WebSocket-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="265" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

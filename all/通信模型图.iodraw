@@ -69,7 +69,7 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-26" target="mMqHlly8Aj62i1W2DUxk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-28">
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-29" value="getDeviceInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-28">
           <mxGeometry x="-0.0407" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

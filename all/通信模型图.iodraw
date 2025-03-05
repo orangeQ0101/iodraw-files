@@ -79,8 +79,11 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-26" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="719.22" y="180" width="40.94" height="140.62" as="geometry" />
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-24" target="mMqHlly8Aj62i1W2DUxk-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="400" as="sourcePoint" />
+            <mxPoint x="810" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-43" value="getAudioData" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-42">
           <mxGeometry x="0.0039" y="1" relative="1" as="geometry">

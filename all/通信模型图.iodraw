@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-80" value="&lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;WebSocket-1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="265" width="80" height="30" as="geometry" />
+          <mxGeometry x="703" y="208" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

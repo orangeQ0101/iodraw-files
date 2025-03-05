@@ -7,8 +7,10 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="170" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-1" target="mMqHlly8Aj62i1W2DUxk-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-1" target="mMqHlly8Aj62i1W2DUxk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="315" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="285" width="30" height="60" as="geometry" />
@@ -30,6 +32,9 @@
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="585" y="160" width="170" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-16" value="即时设备查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="240" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

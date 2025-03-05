@@ -122,6 +122,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-24" target="mMqHlly8Aj62i1W2DUxk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-24" value="音频数据通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
         </mxCell>

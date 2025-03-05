@@ -73,6 +73,9 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-23" value="设备信息通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="216.25" width="120" height="63.75" as="geometry" />
         </mxCell>
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-26" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="719.22" y="178.69" width="40.94" height="140.62" as="geometry" />
+        </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-24" value="音频数据通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="120" height="50" as="geometry" />
         </mxCell>
@@ -81,9 +84,6 @@
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-27" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="728.44" y="334.69" width="22.5" height="140.62" as="geometry" />
-        </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-26" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="719.22" y="178.69" width="40.94" height="140.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

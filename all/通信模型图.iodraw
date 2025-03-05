@@ -67,12 +67,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="372" as="sourcePoint" />
-            <mxPoint x="170" y="352" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-12" value="域间连接请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="350" width="120" height="50" as="geometry" />
         </mxCell>

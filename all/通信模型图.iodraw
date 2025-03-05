@@ -4,14 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-1" target="mMqHlly8Aj62i1W2DUxk-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="270" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mMqHlly8Aj62i1W2DUxk-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

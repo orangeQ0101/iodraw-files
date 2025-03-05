@@ -48,6 +48,9 @@
         <mxCell id="mMqHlly8Aj62i1W2DUxk-11" value="即时设备查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="240" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mMqHlly8Aj62i1W2DUxk-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMqHlly8Aj62i1W2DUxk-12" target="mMqHlly8Aj62i1W2DUxk-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-12" value="域间连接请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="350" width="120" height="50" as="geometry" />
         </mxCell>
@@ -160,8 +163,8 @@
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="245.5" as="sourcePoint" />
-            <mxPoint x="550.96" y="245.77875000000006" as="targetPoint" />
+            <mxPoint x="435" y="256.5" as="sourcePoint" />
+            <mxPoint x="550.96" y="256.77875000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-50" value="Http请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mMqHlly8Aj62i1W2DUxk-49">

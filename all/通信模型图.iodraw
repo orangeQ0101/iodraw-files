@@ -110,7 +110,7 @@
           <mxGeometry x="780" y="170" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="234" width="140" height="180" as="geometry" />
+          <mxGeometry x="1020" y="234" width="130" height="46" as="geometry" />
         </mxCell>
         <mxCell id="mMqHlly8Aj62i1W2DUxk-22" value="音频设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1055" y="234" width="70" height="30" as="geometry" />
